@@ -1,0 +1,19 @@
+/* 외부 스타일 시트 파일에 정의 */
+
+h1{
+    color: rgb(173, 6, 6); 
+    text-align: center;
+}
+/* 해당 태그를 모두 같은 스타일로 정의 */
+
+.login_inputs {
+    font-size: 25px;
+}
+/* 클래스로 묶어서 스타일 정의 */
+
+#login_btn{
+    font-size: 30px; 
+    width: 100px; 
+    height: 40px;
+}
+/* id를 부여하여 스타일 정의 */
